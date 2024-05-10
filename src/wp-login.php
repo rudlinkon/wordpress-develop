@@ -25,7 +25,7 @@ if ( force_ssl_admin() && ! is_ssl() ) {
 /**
  * Output the login page header.
  *
- * @since 2.1.0
+ * @since 2.1.1
  *
  * @global string      $error         Login error message set by deprecated pluggable wp_login() function
  *                                    or plugins replacing it.
